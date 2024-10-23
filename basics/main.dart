@@ -1,4 +1,5 @@
 void main() {
-  String name = "Aimable";
-  print("Hello ${name}");
+  var firstName = "KWIZERA";
+  var lastName = "Aimable";
+  print("Your full name is: $firstName $lastName");
 }
